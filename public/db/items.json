@@ -1,0 +1,74 @@
+[{
+    "month": "January",
+    "dayofweek": "Sunday",
+    "date": "1/8/2023",
+    "entre": "Pork Chops",
+    "veg": "Apple Sauce",
+    "starch": "Egg Noodles"
+  },{
+    "_id": {
+      "$oid": "63baf9fa6dc02fec2c068ba3"
+    },
+    "month": "January",
+    "dayofweek": "Monday",
+    "date": "1/9/2023",
+    "entre": "Au Gratin Potato Casserole",
+    "veg": "Green Beans",
+    "starch": "Potatoes",
+    "occasion": ""
+  },{
+    "_id": {
+      "$oid": "63baf9fa6dc02fec2c068ba4"
+    },
+    "month": "January",
+    "dayofweek": "Tuesday",
+    "date": "1/10/2023",
+    "entre": "Spaghetti and Meatballs",
+    "veg": "Salad",
+    "starch": "Spaghetti",
+    "occasion": ""
+  },{
+    "_id": {
+      "$oid": "63baf9fa6dc02fec2c068ba5"
+    },
+    "month": "January",
+    "dayofweek": "Wednesday",
+    "date": "1/11/2023",
+    "entre": "Panini Sandwiches",
+    "veg": "Green Beans",
+    "starch": "Sour Dough Bread",
+    "occasion": ""
+  },{
+    "_id": {
+      "$oid": "63baf9fa6dc02fec2c068ba6"
+    },
+    "month": "January",
+    "dayofweek": "Thursday",
+    "date": "1/12/2023",
+    "entre": "Chicken Cordon Bleu",
+    "veg": "Yellow Squash",
+    "starch": "Orzo and Butter",
+    "occasion": ""
+  },{
+    "_id": {
+      "$oid": "63baf9fa6dc02fec2c068ba7"
+    },
+    "month": "January",
+    "dayofweek": "Friday",
+    "date": "1/13/2023",
+    "entre": "Cheese Steak",
+    "veg": "Salad",
+    "starch": "French Fries",
+    "occasion": ""
+  },{
+    "_id": {
+      "$oid": "63baf9fa6dc02fec2c068ba8"
+    },
+    "month": "January",
+    "dayofweek": "Saturday",
+    "date": "1/14/2023",
+    "entre": "Out for Dinner",
+    "veg": "",
+    "starch": "",
+    "occasion": ""
+  }]
